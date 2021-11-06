@@ -29,7 +29,7 @@ h1 {
 }
 
 .content h2 {
-  color:#fff;
+  color: black;
   font-size: 125%;
   float: right;
   margin: 0 -10px 10px 0;
@@ -44,6 +44,7 @@ h1 {
 
 #chicken h2 {
   background-color: #d35400;
+  color: white;
 }
 
 #beef h2 {
